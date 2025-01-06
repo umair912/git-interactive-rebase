@@ -16,7 +16,7 @@ In this README file, we will practice and understand how to use the **interactiv
 
 Interactive rebase allows you to:
 
-- Reorder commits
+- Reorder commitsss
 - Squash multiple commits into one
 - Edit commit messages
 - Remove unnecessary commits
