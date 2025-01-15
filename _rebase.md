@@ -4,7 +4,7 @@ In this README file, we will practice and understand how to use the **interactiv
 
 ---
 
-## Prerequisites
+### Prerequisites
 
 1. Git installed on your system. [Install Git](https://git-scm.com/)
 2. A basic understanding of Git commands.
@@ -12,7 +12,7 @@ In this README file, we will practice and understand how to use the **interactiv
 
 ---
 
-## Why Interactive Rebase?
+### Why Interactive Rebase?
 
 Interactive rebase allows you to:
 
@@ -24,7 +24,7 @@ Interactive rebase allows you to:
 
 ---
 
-## Steps to Use Interactive Rebase
+### Steps to Use Interactive Rebase
 
 1. **Set up a repository for practice**  
    If you don’t already have a repository, create one for testing:
@@ -114,7 +114,7 @@ To abort the rebase and return to the original state:
 git rebase --abort
 ```
 ---
-## Common Issues and Solutions
+### Common Issues and Solutions
 1. **Conflict Resolution**\
 If a conflict occurs during rebase, Git will pause the process and show the conflicting files. Resolve conflicts, then continue the rebase:
 
